@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="Designer (10)" src="https://github.com/user-attachments/assets/bfd35f78-227b-4b9c-9c01-4d2c54e2d86b" />
 Agentic System Builder
 
 A project for building practical AI agents and intelligent workflow automations for real-world problems.
